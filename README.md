@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://yogesh-kasliwal.netlify.app/](https://yogesh-kasliwal.netlify.app/)
-
 - 📝 I regularly write articles on [https://hashnode.com/@yogesh06](https://hashnode.com/@yogesh06)
 
 - 💬 Ask me about **React, Node, MongoDB**
