@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yogesh Kasliwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Typescript**
-
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Typescript**  **Web Development**
 
 - 📝 I regularly write articles on [https://hashnode.com/@yogesh06](https://hashnode.com/@yogesh06)
 
