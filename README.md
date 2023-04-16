@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogesh1006&label=Profile%20views&color=0e75b6&style=flat" alt="yogesh1006" /> </p>
 
-<p align="left"> <a href="https://twitter.com/yogkas1006" target="blank"><img src="https://img.shields.io/twitter/follow/yogkas1006?logo=twitter&style=for-the-badge" alt="yogkas1006" /></a> </p>
+- 🌱 I’m currently building customer applications using ReactJs,Redux-toolkit,Javascript,Typescript,SASS
+- 👯 I’m looking to collaborate on Web applications
+- 🤝 I’m looking for help with Open source projects
+- 💬 Ask me about Frontend Development
+- 📫 How to reach me https://www.linkedin.com/in/yogesh-kasliwal-8b975a129/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
